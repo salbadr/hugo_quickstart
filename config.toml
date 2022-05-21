@@ -1,6 +1,6 @@
 baseURL = 'http://sbadrs3staticsite.s3-website-us-east-1.amazonaws.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Hugo CD Site'
 theme = "ananke"
 
 [[deployment.targets]]
